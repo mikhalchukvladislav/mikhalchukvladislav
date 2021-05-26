@@ -7,10 +7,10 @@
 - :eyes: eager to work on data science and data analysis projects
 ### Languages and Tools
 
-![Python](https://img.shields.io/badge/-Python-3C3E47?style=for-the-badge&logo=python&Logocolor=3F7BAA)  ![Pandas](https://img.shields.io/badge/-Pandas-3C3E47?style=for-the-badge&logo=Pandas&Logocolor=E00484)
-![MySQL](https://img.shields.io/badge/-MySQL-3C3E47?style=for-the-badge&logo=MySQL&Logocolor=E26C00) 
-![Git](https://img.shields.io/badge/-Git-3C3E47?style=for-the-badge&logo=Git)                                                              ![Numpy](https://img.shields.io/badge/-numpy-3C3E47?style=for-the-badge&logo=numpy) ![scikit-learn](https://img.shields.io/badge/-scikitlearn-3C3E47?style=for-the-badge&logo=scikit-learn)                                 ![Matplotlib](https://img.shields.io/badge/-matplotlib-3C3E47?style=for-the-badge&logo=circle)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3C3E47?style=for-the-badge&logo=appveyor)                                      ![Plotly.Express](https://img.shields.io/badge/-Plotly.Express-3C3E47?style=for-the-badge&logo=Plotly)                               ![Math Statistics](https://img.shields.io/badge/-Math_Statistics-3C3E47?style=for-the-badge&logo=math)                                         ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-3C3E47?style=for-the-badge&logo=MachineLearning)
+![Python](https://img.shields.io/badge/-Python-8C8C8C?style=for-the-badge&logo=python&Logocolor=3F7BAA)  ![Pandas](https://img.shields.io/badge/-Pandas-3C3E47?style=for-the-badge&logo=Pandas&Logocolor=E00484)
+![MySQL](https://img.shields.io/badge/-MySQL-8C8C8C?style=for-the-badge&logo=MySQL&Logocolor=E26C00) 
+![Git](https://img.shields.io/badge/-Git-8C8C8C?style=for-the-badge&logo=Git)                                                              ![Numpy](https://img.shields.io/badge/-numpy-8C8C8C?style=for-the-badge&logo=numpy) ![scikit-learn](https://img.shields.io/badge/-scikitlearn-8C8C8C?style=for-the-badge&logo=scikit-learn)                                 ![Matplotlib](https://img.shields.io/badge/-matplotlib-8C8C8C?style=for-the-badge&logo=circle)
+![Seaborn](https://img.shields.io/badge/-Seaborn-8C8C8C?style=for-the-badge&logo=appveyor)                                      ![Plotly.Express](https://img.shields.io/badge/-Plotly.Express-3C3E47?style=for-the-badge&logo=Plotly)                               ![Math Statistics](https://img.shields.io/badge/-Math_Statistics-3C3E47?style=for-the-badge&logo=math)                                         ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-3C3E47?style=for-the-badge&logo=MachineLearning)
 ![Linear algebra](https://img.shields.io/badge/-Linear_Algebra-3C3E47?style=for-the-badge&logo=MachineLearning) ![a/bTesting](https://img.shields.io/badge/-a/b_Testing-3C3E47?style=for-the-badge&logo=MachineLearning) 
 
 ### How to reach me:
