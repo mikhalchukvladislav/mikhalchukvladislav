@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Header](https://github.com/mikhalchukvladislav/mikhalchukvladislav/blob/main/assets/8d66a6f9-29ba-4087-9426-dce357e3a43a.jpg)
+![Header](https://github.com/mikhalchukvladislav/mikhalchukvladislav/blob/main/assets/8d66a6f9-29ba-4087-9426-dce357e3a43a.jpg)
 
 
 ## I'm a Junior Data Scientist 
