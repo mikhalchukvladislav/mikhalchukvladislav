@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Header](https://github.com/yekaterinamikhalchuk/yekaterinamikhalchuk/blob/main/assets/%D1%84%D0%BE%D1%82%D0%BE%20%D0%B4%D0%BB%D1%8F%20%D0%B3%D0%B8%D1%82.jpg)](https://www.linkedin.com/in/ekaterina-mikhalchuk-171aba20b/)
+[![Header](https://github.com/mikhalchukvladislav/mikhalchukvladislav/blob/main/assets/8d66a6f9-29ba-4087-9426-dce357e3a43a.jpg)
 
 
 ## I'm a Junior Data Scientist 
@@ -16,6 +16,6 @@
 ![Linear algebra](https://img.shields.io/badge/-Linear_Algebra-3C3E47?style=for-the-badge&logo=MachineLearning) ![a/bTesting](https://img.shields.io/badge/-a/b_Testing-3C3E47?style=for-the-badge&logo=MachineLearning) 
 
 ### How to reach me:
-<a href="mailto:mikhalchuk.e.s@yandex.ru">![E-mail](https://img.shields.io/badge/-email-41435B?style=for-the-badge&logo=yandex&Logocolor=E00484) </a>[![Telegram](https://img.shields.io/badge/-Telegram-41435B?style=for-the-badge&logo=Telegram)](https://t.me/yeyekaterina) 
-[![hh](https://img.shields.io/badge/-headhunter-41435B?style=for-the-badge&logo=)](https://hh.ru/resume/5cc91ea2ff0890f6f10039ed1f517277686a52)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-41435B?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/ekaterina-mikhalchuk-171aba20b/) [![WhatsApp](https://img.shields.io/badge/-WhatsApp-41435B?style=for-the-badge&logo=WhatsApp)](https://wa.me/79166334361) 
+<a href="mailto:mikhalchukvladislav@yandex.ru">![E-mail](https://img.shields.io/badge/-email-41435B?style=for-the-badge&logo=yandex&Logocolor=E00484) </a>[![Telegram](https://img.shields.io/badge/-Telegram-41435B?style=for-the-badge&logo=Telegram)](https://t.me/VMikhalchuk) 
+[![hh](https://img.shields.io/badge/-headhunter-41435B?style=for-the-badge&logo=)](https://hh.ru/applicant/resumes/view?resume=c5999630ff08f667410039ed1f475657326833)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-41435B?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/ekaterina-mikhalchuk-171aba20b/) [![WhatsApp](https://img.shields.io/badge/-WhatsApp-41435B?style=for-the-badge&logo=WhatsApp)](https://wa.me/79951182060) 
