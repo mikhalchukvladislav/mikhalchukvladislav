@@ -1,10 +1,10 @@
 ![Header](https://github.com/mikhalchukvladislav/mikhalchukvladislav/blob/main/assets/python-dictionary.webp)
 
 
-## I'm a Junior Data Scientist 
-- 🧐 interested in data science & data analysis
-- :computer: learning DS at the moment
-- :eyes: eager to work on data science and data analysis projects
+## I'm a software engineer
+- :computer: learning Python Development at the moment
+- 🧐 interested in backend,  data science & data analysis
+- :eyes: eager to work on backend projects
 ### Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-8C8C8C?style=for-the-badge&logo=python&Logocolor=3F7BAA)  ![Pandas](https://img.shields.io/badge/-Pandas-8C8C8C?style=for-the-badge&logo=Pandas&Logocolor=E00484)
