@@ -7,7 +7,7 @@
 - :eyes: eager to work on backend projects
 ### Languages and Tools
 
-![Python](https://img.shields.io/badge/-Python-8C8C8C?style=for-the-badge&logo=python&Logocolor=3F7BAA) ![Django](https://img.shields.io/badge/-DJANGO-green) ![Pandas](https://img.shields.io/badge/-Pandas-8C8C8C?style=for-the-badge&logo=Pandas&Logocolor=E00484)
+![Python](https://img.shields.io/badge/-Python-8C8C8C?style=for-the-badge&logo=python&Logocolor=3F7BAA) ![Django](https://img.shields.io/badge/-DJANGO-8C8C8C?style=for-the-badge&logo=python&Logocolor=green) ![Pandas](https://img.shields.io/badge/-Pandas-8C8C8C?style=for-the-badge&logo=Pandas&Logocolor=E00484)
 ![MySQL](https://img.shields.io/badge/-MySQL-8C8C8C?style=for-the-badge&logo=MySQL&Logocolor=E26C00) 
 ![Git](https://img.shields.io/badge/-Git-8C8C8C?style=for-the-badge&logo=Git)                                                              ![Numpy](https://img.shields.io/badge/-numpy-8C8C8C?style=for-the-badge&logo=numpy) ![scikit-learn](https://img.shields.io/badge/-scikitlearn-8C8C8C?style=for-the-badge&logo=scikit-learn)                                 ![Matplotlib](https://img.shields.io/badge/-matplotlib-8C8C8C?style=for-the-badge&logo=circle)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-8C8C8C?style=for-the-badge&logo=appveyor)                                      ![Plotly.Express](https://img.shields.io/badge/-Plotly.Express-8C8C8C?style=for-the-badge&logo=Plotly)                               ![Math Statistics](https://img.shields.io/badge/-Math_Statistics-3C3E47?style=for-the-badge&logo=math)                                         ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-3C3E47?style=for-the-badge&logo=MachineLearning)
