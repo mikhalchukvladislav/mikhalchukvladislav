@@ -4,7 +4,7 @@
 ## I'm a software engineer
 - :computer: learning Python Development at the moment
 - 🧐 interested in backend,  data science & data analysis
-- :eyes: eager to work on backend projects
+
 ### Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-8C8C8C?style=for-the-badge&logo=python&Logocolor=3F7BAA) ![Django](https://img.shields.io/badge/-DJANGO-8C8C8C?style=for-the-badge&logo=django&Logocolor=green) ![Pandas](https://img.shields.io/badge/-Pandas-8C8C8C?style=for-the-badge&logo=Pandas&Logocolor=E00484)
