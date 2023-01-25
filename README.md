@@ -14,6 +14,5 @@
 ![Linear algebra](https://img.shields.io/badge/-Linear_Algebra-3C3E47?style=for-the-badge&logo=MachineLearning) ![a/bTesting](https://img.shields.io/badge/-a/b_Testing-3C3E47?style=for-the-badge&logo=MachineLearning) ![TimeSeries](https://img.shields.io/badge/-Time_Series-3C3E47?style=for-the-badge&logo=TimeSeries) ![NLP](https://img.shields.io/badge/-NLP-3C3E47?style=for-the-badge&logo=NLP) 
 
 ### How to reach me:
-<a href="mailto:mikhalchukvladislav@yandex.ru">![E-mail](https://img.shields.io/badge/-email-41435B?style=for-the-badge&logo=yandex&Logocolor=E00484) </a>[![Telegram](https://img.shields.io/badge/-Telegram-41435B?style=for-the-badge&logo=Telegram)](https://t.me/VMikhalchuk) 
-[![hh](https://img.shields.io/badge/-headhunter-41435B?style=for-the-badge&logo=)](https://hh.ru/applicant/resumes/view?resume=c5999630ff08f667410039ed1f475657326833)
+<a href="mailto:mikhalchukvladislav@yandex.ru">![E-mail](https://img.shields.io/badge/-email-41435B?style=for-the-badge&logo=yandex&Logocolor=E00484) </a>[![Telegram](https://img.shields.io/badge/-Telegram-41435B?style=for-the-badge&logo=Telegram)](https://t.me/vlad_mikhalchuk) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-41435B?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/vladislavmikhalchuk/)
