@@ -16,4 +16,4 @@
 ### How to reach me:
 <a href="mailto:mikhalchukvladislav@yandex.ru">![E-mail](https://img.shields.io/badge/-email-41435B?style=for-the-badge&logo=yandex&Logocolor=E00484) </a>[![Telegram](https://img.shields.io/badge/-Telegram-41435B?style=for-the-badge&logo=Telegram)](https://t.me/VMikhalchuk) 
 [![hh](https://img.shields.io/badge/-headhunter-41435B?style=for-the-badge&logo=)](https://hh.ru/applicant/resumes/view?resume=c5999630ff08f667410039ed1f475657326833)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-41435B?style=for-the-badge&logo=LinkedIn)]([https://www.linkedin.com/in/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2-%D0%BC%D0%B8%D1%85%D0%B0%D0%BB%D1%8C%D1%87%D1%83%D0%BA-85805022b/?locale=en_US](https://www.linkedin.com/in/vladislavmikhalchuk/)) [![WhatsApp](https://img.shields.io/badge/-WhatsApp-41435B?style=for-the-badge&logo=WhatsApp)](https://wa.me/79951182060)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-41435B?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/vladislavmikhalchuk/)
